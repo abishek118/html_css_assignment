@@ -5,3 +5,20 @@
 width: 100%;
 height: 100%;
 }
+.col{
+    display: block;
+    width: 100%;
+    border: 1px solid;
+}
+.row{
+    display: inline-block;
+    width: 45%;
+    height: 100%;
+    margin: 30px;
+    vertical-align:top;
+}
+
+
+img{
+    height: 300px;
+}
